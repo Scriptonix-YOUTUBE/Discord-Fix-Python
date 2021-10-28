@@ -9,7 +9,9 @@ Discord has an issue where sometimes it doesn't open, no longer!
  • Windows 10 or higher
  
 # Instructions
- • Download the latest release
+ • Download as ZIP
+ 
+ • Extract
  
  • Run
  
