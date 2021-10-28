@@ -1,5 +1,5 @@
 # Discord-Fix
-Discord has an issue where sometimes it doesn't open, no longer!
+Discord has an issue where sometimes it is stuck and doesn't open, no longer!
 
 # Requirements
  • Latest version of [Python](https://www.python.org/)
