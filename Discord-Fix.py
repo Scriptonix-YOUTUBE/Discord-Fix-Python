@@ -3,7 +3,7 @@ import os
 import time
 
 
-print('Made by Scriptonix')
+print('Made by Brisk')
 
 
 def split(f): # Checks if the path is the correct path
