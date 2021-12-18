@@ -29,7 +29,7 @@ def startdiscord(): # Attempts to start Discord automatically
     try:
         path = getpath(os.path.expanduser("~") + "\AppData\Local\Discord")
         os.startfile(path)
-        print('[SUCCESS]: Attempt to start Discord')
+        quit()
     except Exception:
         print('[FAILED]: Attempt to start Discord')
 
